@@ -1,0 +1,13 @@
+{
+  "name": "TomatoEgg",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "axios": "^0.7.0",
+    "react-native": "^0.14.2",
+    "react-timer-mixin": "^0.13.3"
+  }
+}
